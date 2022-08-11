@@ -7,6 +7,7 @@
 - Really interested in Full Stack, tying together front & backend development.
 - 📫 How to reach me ...
 - E-Mail: shaymnelson@icloud.com
+- GitHub Page: https://shaynelson.github.io/
 
 <!---
 shaynelson/shaynelson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
