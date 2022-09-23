@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on ...
 - Really interested in Full Stack, tying together front & backend development.
 - 📫 How to reach me ...
-- E-Mail: shaymnelson@icloud.com
+- E-Mail: shay@shaynelson.com
 - GitHub Page: https://shaynelson.github.io/
 
 <!---
